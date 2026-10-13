@@ -1,0 +1,13 @@
+{
+  "name": "Intentra",
+  "short_name": "Intentra",
+  "description": "Tell it what you want from the next few hours. It compiles a timed, routed, explainable itinerary through the real city.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

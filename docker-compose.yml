@@ -1,0 +1,15 @@
+services:
+  intentra:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - apps/api/.env
+    environment:
+      CORS_ORIGINS: "*"
+    volumes:
+      - intentra-data:/data
+    restart: unless-stopped
+
+volumes:
+  intentra-data:
