@@ -17,3 +17,11 @@ venv/
 .vscode/
 .idea/
 .DS_Store
+node_modules/
+.venv/
+**/__pycache__/
+*.pyc
+dist/
+*.tsbuildinfo
+.env
+**/.env
