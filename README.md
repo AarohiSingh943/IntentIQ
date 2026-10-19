@@ -1,4 +1,4 @@
-# Intentra
+# IntentIQ
 
 Tell it what you want from the next few hours. It compiles that sentence into a timed, routed,
 explainable itinerary through the real city, drawn on a 3D night map.
